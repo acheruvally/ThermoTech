@@ -1,0 +1,12 @@
+{
+    "Temp": [
+    {
+    "TempRange": "0-20",
+    "Count": 90
+    },
+    {
+    "TempRange": "20-40",
+    "Count": 89
+    }
+    ]
+    }
